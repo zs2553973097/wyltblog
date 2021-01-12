@@ -1,0 +1,22 @@
+.pagination{
+    color: white;
+    text-align: center;
+}
+.pagination li{
+    display: inline-block;
+}
+.pagination li a{
+    color: white;
+}
+.pagination li span{
+    color:red;
+}
+
+
+
+
+
+
+
+
+
